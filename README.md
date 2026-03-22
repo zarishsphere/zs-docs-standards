@@ -1,2 +1,3 @@
 # zs-docs-standards
-Clinical and technical standards
+
+Generated directly from internal PRD specification.
